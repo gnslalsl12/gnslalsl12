@@ -13,28 +13,35 @@
 
 ### Here are my geek life friends:
 
-![Javascript](https://img.shields.io/badge/Javascript-3178C6?style=flat-square&logo=Javascript&logoColor=FFF651)
+![Javascript](https://img.shields.io/badge/Javascript-3178C6?style=flat-square&logo=Javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-047FB4?style=flat-square&logo=TypeScript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=React&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/ReactNative-373635?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue-#4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-blue?style=flat-square&logo=Redux&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-gray?style=flat-square&logo=Recoil&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=Node.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=Next.js&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![TailWind](https://img.shields.io/badge/TailWindcss-0d99ff?style=flat-square&logo=TailWindcss&logoColor=white)
 ![styledcomponents](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=flat-square&logo=styledcomponents&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=black)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
-![eclipse](https://img.shields.io/badge/eclipse-orange.svg?style=flat-square&logo=eclipse&logoColor=232F3E)
+![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?style=flat-square&logo=eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-E87D0D.svg?style=flat-square&logo=blender&logoColor=232F3E)
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=Figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052cc.svg?style=flat-square&logo=Jira&logoColor=white)
+![Mattermost](https://img.shields.io/badge/Mattermost-0058cc.svg?style=flat-square&logo=Mattermost&logoColor=white)
 
-### And there are other friends, too:
+<!-- ### And there are other friends, too:
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Caddy 2](https://img.shields.io/badge/Caddy_2-00AEFF?style=flat-square&logo=Caddy&logoColor=white)
@@ -62,7 +69,36 @@
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=flat-square&logo=vultr)
 ![PlanetScale](https://img.shields.io/badge/PlanetScale-3A416F?style=flat-square&logo=planetscale&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) -->
+<!--
+### My activities:
+
+<table>
+  <tr><td colspan="2"><a href="/README.md#-plugins">← Back to plugins index</a></td></tr>
+  <tr><th colspan="2"><h3>📅 Isometric commit calendar</h3></th></tr>
+  <tr><td colspan="2" align="center"><p>This plugin displays an isometric view of a user commit calendar along with a few additional statistics like current streak and average number of commit per day.</p>
+</td></tr>
+  <tr><th>⚠️ Disclaimer</th><td><p>This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://github.com">GitHub</a>.
+All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
+</td></tr>
+  <tr>
+    <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
+    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a> <a href="/source/templates/terminal/README.md"><code>📙 Terminal template</code></a></td>
+  </tr>
+  <tr>
+    <td><code>👤 Users</code></td>
+  </tr>
+  <tr>
+    <td><code>🔑 (scopeless)</code> <code>read:org (optional)</code> <code>read:user (optional)</code> <code>read:packages (optional)</code> <code>repo (optional)</code></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+      <details><summary>Half year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+</table> -->
 
 ### My activities:
 
