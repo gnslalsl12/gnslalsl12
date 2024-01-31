@@ -57,3 +57,4 @@ jobs:
           plugin_lines_sections: base
           plugin_isocalendar: true
           plugin_isocalendar_duration: half-year
+          plugin_wakatime: no
