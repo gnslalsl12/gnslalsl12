@@ -9,8 +9,8 @@
 
 <p align="center">I'm SW developer. but I'm more interested in frontend ✨.</p>
 
-<p align="center">My Blog about SW Posts is <a href="https://hoonyblog.vercel.app">HERE</a></p>
-<p align="center">And My Front-End Portfolio is <a href="https://gnslalsl12.github.io">THIS</a></p>
+<p align="center">My SW Blog is <a href="https://hoonyblog.vercel.app">HERE</a></p>
+<p align="center">And My Front-End Portfolio is <a href="https://gnslalsl12.github.io">THIS</a> which is still being developed.</p>
 
 <!-- <p align="center"><img src="https://dday-widget.minung.dev/widget?text=%F0%9F%AA%96%20military%20service%20(23.03.13~24.09.12)&date=2024-09-12&startDate=2023-03-13&theme=theme2" /></p> -->
 
