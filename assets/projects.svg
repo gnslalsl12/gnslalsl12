@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="508" viewBox="0 0 1200 508" fill="none" role="img" aria-label="Featured Projects">
+  <defs>
+    <linearGradient id="t1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#a78bfa"/><stop offset="100%" stop-color="#d946ef"/></linearGradient>
+    <linearGradient id="t2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#818cf8"/><stop offset="100%" stop-color="#38bdf8"/></linearGradient>
+    <linearGradient id="t3" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#34d399"/><stop offset="100%" stop-color="#3b82f6"/></linearGradient>
+    <linearGradient id="t4" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#f472b6"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.06"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/></linearGradient>
+    <linearGradient id="sheen2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity="0.45"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <radialGradient id="g1" cx="0.5" cy="0.5" r="0.5"><stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.55"/><stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="0.5" cy="0.5" r="0.5"><stop offset="0%" stop-color="#38bdf8" stop-opacity="0.5"/><stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g3" cx="0.5" cy="0.5" r="0.5"><stop offset="0%" stop-color="#34d399" stop-opacity="0.45"/><stop offset="100%" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g4" cx="0.5" cy="0.5" r="0.5"><stop offset="0%" stop-color="#f472b6" stop-opacity="0.45"/><stop offset="100%" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+    <filter id="b2" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="34"/></filter>
+  </defs>
+
+  <rect width="1200" height="508" fill="#0a0a0f"/>
+
+  <!-- ======================= CARD 1 : Famring (LIVE) ======================= -->
+  <g font-family="'Segoe UI','Montserrat',system-ui,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+    <g transform="translate(20,20)">
+      <circle cx="500" cy="40" r="120" fill="url(#g1)" filter="url(#b2)"/>
+      <rect width="568" height="220" rx="22" fill="url(#cardbg)" stroke="#fff" stroke-opacity="0.10"/>
+      <rect x="24" y="0.5" width="520" height="1" fill="url(#sheen2)"/>
+      <!-- live badge -->
+      <g transform="translate(454,28)">
+        <rect width="86" height="30" rx="15" fill="#34d399" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.45"/>
+        <circle cx="22" cy="15" r="4" fill="#34d399"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/></circle>
+        <text x="34" y="20" fill="#6ee7b7" font-size="12" font-weight="700" letter-spacing="1">LIVE</text>
+      </g>
+      <text x="32" y="58" font-size="14" font-weight="700" letter-spacing="2" fill="#7c7c92">01 · 개인 풀스택 · 운영 중</text>
+      <text x="32" y="100" font-size="34" font-weight="800" fill="url(#t1)" letter-spacing="-0.5">Famring</text>
+      <text x="32" y="132" font-size="15" font-weight="500" fill="#b6b6c8">가족 단위로 계정·일정·정보를 안전하게</text>
+      <text x="32" y="154" font-size="15" font-weight="500" fill="#b6b6c8">공유하는 모바일 PWA 서비스</text>
+      <g transform="translate(32,176)" font-size="12.5" font-weight="600" fill="#cdcde0">
+        <g><rect width="78" height="28" rx="14" fill="#fff" fill-opacity="0.05" stroke="#fff" stroke-opacity="0.12"/><text x="39" y="19" text-anchor="middle">Next.js</text></g>
+        <g transform="translate(86,0)"><rect width="58" height="28" rx="14" fill="#fff" fill-opacity="0.05" stroke="#fff" stroke-opacity="0.12"/><text x="29" y="19" text-anchor="middle">PWA</text></g>
+        <g transform="translate(152,0)"><rect width="92" height="28" rx="14" fill="#fff" fill-opacity="0.05" stroke="#fff" stroke-opacity="0.12"/><text x="46" y="19" text-anchor="middle">Supabase</text></g>
+        <g transform="translate(252,0)"><rect width="118" height="28" rx="14" fill="#8b5cf6" fill-opacity="0.14" stroke="#8b5cf6" stroke-opacity="0.4"/><text x="59" y="19" text-anchor="middle" fill="#d8caff">AES-256-GCM</text></g>
+      </g>
+    </g>
+
+    <!-- ======================= CARD 2 : WORLDY ======================= -->
+    <g transform="translate(612,20)">
+      <circle cx="70" cy="40" r="120" fill="url(#g2)" filter="url(#b2)"/>
+      <rect width="568" height="220" rx="22" fill="url(#cardbg)" stroke="#fff" stroke-opacity="0.10"/>
+      <rect x="24" y="0.5" width="520" height="1" fill="url(#sheen2)"/>
+      <g transform="translate(440,28)">
+        <rect width="100" height="30" rx="15" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.4"/>
+        <text x="50" y="20" fill="#7dd3fc" font-size="12" font-weight="700" letter-spacing="1" text-anchor="middle">3D · AI</text>
+      </g>
+      <text x="32" y="58" font-size="14" font-weight="700" letter-spacing="2" fill="#7c7c92">02 · 팀 프로젝트 · SSAFY</text>
+      <text x="32" y="100" font-size="34" font-weight="800" fill="url(#t2)" letter-spacing="-0.5">WORLDY</text>
+      <text x="32" y="132" font-size="15" font-weight="500" fill="#b6b6c8">AI 기술을 활용한 3D 메타버스</text>
+      <text x="32" y="154" font-size="15" font-weight="500" fill="#b6b6c8">세계 지식 학습 게임</text>
+      <g transform="translate(32,176)" font-size="12.5" font-weight="600" fill="#cdcde0">
+        <g><rect width="62" height="28" rx="14" fill="#fff" fill-opacity="0.05" stroke="#fff" stroke-opacity="0.12"/><text x="31" y="19" text-anchor="middle">React</text></g>
+        <g transform="translate(70,0)"><rect width="84" height="28" rx="14" fill="#fff" fill-opacity="0.05" stroke="#fff" stroke-opacity="0.12"/><text x="42" y="19" text-anchor="middle">Three.js</text></g>
+        <g transform="translate(162,0)"><rect width="120" height="28" rx="14" fill="#fff" fill-opacity="0.05" stroke="#fff" stroke-opacity="0.12"/><text x="60" y="19" text-anchor="middle">Spring Boot</text></g>
+        <g transform="translate(290,0)"><rect width="52" height="28" rx="14" fill="#38bdf8" fill-opacity="0.14" stroke="#38bdf8" stroke-opacity="0.4"/><text x="26" y="19" text-anchor="middle" fill="#bae6fd">AI</text></g>
+      </g>
+    </g>
+
+    <!-- ======================= CARD 3 : 이음 ======================= -->
+    <g transform="translate(20,264)">
+      <circle cx="500" cy="180" r="120" fill="url(#g3)" filter="url(#b2)"/>
+      <rect width="568" height="220" rx="22" fill="url(#cardbg)" stroke="#fff" stroke-opacity="0.10"/>
+      <rect x="24" y="0.5" width="520" height="1" fill="url(#sheen2)"/>
+      <g transform="translate(424,28)">
+        <rect width="116" height="30" rx="15" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.4"/>
+        <text x="58" y="20" fill="#6ee7b7" font-size="12" font-weight="700" letter-spacing="1" text-anchor="middle">BIG DATA</text>
+      </g>
+      <text x="32" y="58" font-size="14" font-weight="700" letter-spacing="2" fill="#7c7c92">03 · 팀 프로젝트 · SSAFY</text>
+      <text x="32" y="100" font-size="34" font-weight="800" fill="url(#t3)" letter-spacing="-0.5">이음 · Eeum</text>
+      <text x="32" y="132" font-size="15" font-weight="500" fill="#b6b6c8">빅데이터 분산 기술을 활용한</text>
+      <text x="32" y="154" font-size="15" font-weight="500" fill="#b6b6c8">'자립 준비 청년' 사회적 지원 서비스</text>
+      <g transform="translate(32,176)" font-size="12.5" font-weight="600" fill="#cdcde0">
+        <g><rect width="118" height="28" rx="14" fill="#fff" fill-opacity="0.05" stroke="#fff" stroke-opacity="0.12"/><text x="59" y="19" text-anchor="middle">React Native</text></g>
+        <g transform="translate(126,0)"><rect width="68" height="28" rx="14" fill="#fff" fill-opacity="0.05" stroke="#fff" stroke-opacity="0.12"/><text x="34" y="19" text-anchor="middle">Recoil</text></g>
+        <g transform="translate(202,0)"><rect width="116" height="28" rx="14" fill="#fff" fill-opacity="0.05" stroke="#fff" stroke-opacity="0.12"/><text x="58" y="19" text-anchor="middle">ElasticSearch</text></g>
+      </g>
+    </g>
+
+    <!-- ======================= CARD 4 : Rendez-Boo ======================= -->
+    <g transform="translate(612,264)">
+      <circle cx="70" cy="180" r="120" fill="url(#g4)" filter="url(#b2)"/>
+      <rect width="568" height="220" rx="22" fill="url(#cardbg)" stroke="#fff" stroke-opacity="0.10"/>
+      <rect x="24" y="0.5" width="520" height="1" fill="url(#sheen2)"/>
+      <g transform="translate(420,28)">
+        <rect width="120" height="30" rx="15" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.4"/>
+        <text x="60" y="20" fill="#f9a8d4" font-size="12" font-weight="700" letter-spacing="1" text-anchor="middle">REAL-TIME</text>
+      </g>
+      <text x="32" y="58" font-size="14" font-weight="700" letter-spacing="2" fill="#7c7c92">04 · 팀 프로젝트 · SSAFY</text>
+      <text x="32" y="100" font-size="34" font-weight="800" fill="url(#t4)" letter-spacing="-0.5">Rendez-Boo</text>
+      <text x="32" y="132" font-size="15" font-weight="500" fill="#b6b6c8">WebRTC 기술을 활용한</text>
+      <text x="32" y="154" font-size="15" font-weight="500" fill="#b6b6c8">블라인드 미팅 플랫폼</text>
+      <g transform="translate(32,176)" font-size="12.5" font-weight="600" fill="#cdcde0">
+        <g><rect width="62" height="28" rx="14" fill="#fff" fill-opacity="0.05" stroke="#fff" stroke-opacity="0.12"/><text x="31" y="19" text-anchor="middle">React</text></g>
+        <g transform="translate(70,0)"><rect width="78" height="28" rx="14" fill="#fff" fill-opacity="0.05" stroke="#fff" stroke-opacity="0.12"/><text x="39" y="19" text-anchor="middle">WebRTC</text></g>
+        <g transform="translate(156,0)"><rect width="106" height="28" rx="14" fill="#fff" fill-opacity="0.05" stroke="#fff" stroke-opacity="0.12"/><text x="53" y="19" text-anchor="middle">TensorFlow</text></g>
+      </g>
+    </g>
+  </g>
+</svg>

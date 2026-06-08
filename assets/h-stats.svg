@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="84" viewBox="0 0 900 84" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0%" stop-color="#8b5cf6"/><stop offset="55%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#d946ef"/>
+    </linearGradient>
+  </defs>
+  <g font-family="'Segoe UI','Montserrat',system-ui,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+    <circle cx="6" cy="20" r="4" fill="#8b5cf6"/>
+    <text x="20" y="25" fill="#8b5cf6" font-size="14" font-weight="700" letter-spacing="5">GITHUB STATS</text>
+    <text x="0" y="66" font-size="34" font-weight="800" letter-spacing="-0.8"><tspan fill="#ececf1">기록으로 보는 </tspan><tspan fill="url(#g)">활동</tspan></text>
+  </g>
+</svg>
