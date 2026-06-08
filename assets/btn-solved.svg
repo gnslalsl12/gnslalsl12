@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="66" viewBox="0 0 170 66" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.82"/><stop offset="100%" stop-color="#f1ecff" stop-opacity="0.66"/></linearGradient>
+    <filter id="s" x="-20%" y="-25%" width="140%" height="160%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#0ea5e9" flood-opacity="0.22"/></filter>
+  </defs>
+  <g transform="translate(7,7)" font-family="'Segoe UI','Montserrat',system-ui,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+    <g filter="url(#s)"><rect x="0" y="0" width="156" height="52" rx="26" fill="url(#g)" stroke="#ffffff" stroke-opacity="0.9" stroke-width="1.4"/></g>
+    <rect x="1" y="1" width="154" height="50" rx="25" fill="none" stroke="#0ea5e9" stroke-opacity="0.18"/>
+    <rect x="16" y="9" width="34" height="34" rx="11" fill="#0ea5e9" fill-opacity="0.14" stroke="#0ea5e9" stroke-opacity="0.30"/>
+    <g transform="translate(22,15) scale(0.917)" stroke="#0ea5e9" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M8 4 H16 V8 a4 4 0 0 1 -8 0 Z"/><path d="M8 5.5 H5.2 a1.9 1.9 0 0 0 0 4 H6.2"/><path d="M16 5.5 H18.8 a1.9 1.9 0 0 1 0 4 H17.8"/><line x1="12" y1="12" x2="12" y2="15.5"/><path d="M8.5 20 H15.5 L14.3 16.8 H9.7 Z"/></g>
+    <g transform="translate(22,15) scale(0.917)"></g>
+    <text x="62" y="32.5" font-size="15" font-weight="700" fill="#2a2540">solved.ac</text>
+  </g>
+</svg>

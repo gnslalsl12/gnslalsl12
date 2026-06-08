@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="66" viewBox="0 0 172 66" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.82"/><stop offset="100%" stop-color="#f1ecff" stop-opacity="0.66"/></linearGradient>
+    <filter id="s" x="-20%" y="-25%" width="140%" height="160%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#2563eb" flood-opacity="0.22"/></filter>
+  </defs>
+  <g transform="translate(7,7)" font-family="'Segoe UI','Montserrat',system-ui,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+    <g filter="url(#s)"><rect x="0" y="0" width="158" height="52" rx="26" fill="url(#g)" stroke="#ffffff" stroke-opacity="0.9" stroke-width="1.4"/></g>
+    <rect x="1" y="1" width="156" height="50" rx="25" fill="none" stroke="#2563eb" stroke-opacity="0.18"/>
+    <rect x="16" y="9" width="34" height="34" rx="11" fill="#2563eb" fill-opacity="0.14" stroke="#2563eb" stroke-opacity="0.30"/>
+    <g transform="translate(22,15) scale(0.917)" stroke="#2563eb" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M5 19.5 V16 L16 5 a2.1 2.1 0 0 1 3 3 L8 19.5 Z"/><line x1="13.5" y1="7.5" x2="16.5" y2="10.5"/></g>
+    <g transform="translate(22,15) scale(0.917)"></g>
+    <text x="62" y="32.5" font-size="15" font-weight="700" fill="#2a2540">Tech Blog</text>
+  </g>
+</svg>
