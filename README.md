@@ -1,108 +1,152 @@
-<h1 align="center">hello, i'm Hoon. 👋</h1>
+<!-- ========================= HERO ========================= -->
+<div align="center">
 
-<p align="center">
-  <a href="mailto:wjdgnsxhsl@naver.com"><img src="https://shields.io/badge/-e--mail-red?style=flat-square&logo=gmail&logoColor=fff&labelColor=333" /></a> <a href="https://github.com/gnslalsl12"><img src="https://shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=fff&labelColor=333" /></a> 
-  <!-- <a href="https://gitlab.com/ddark"><img src="https://shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=fff&labelColor=333" /></a> -->
-</p>
+<img src="./assets/hero.svg" width="100%" alt="Jeong Hoon — Frontend Developer" />
 
-<p align="center">My name is <b><code>Hoon Jeong</code></b>, and I'm in <code>🇰🇷 South Korea</code>.</p>
+<br/>
 
-<p align="center">I'm SW developer. but I'm more interested in frontend ✨.</p>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=620&height=40&lines=Frontend+Developer+%F0%9F%8E%A8;Interactive+Web%2C+Made+Human+%E2%9C%A8;%EC%82%AC%EC%9A%A9%EC%9E%90+%EC%A4%91%EC%8B%AC%EC%9D%98+UI%2FUX%EB%A5%BC+%EA%B3%A0%EB%AF%BC%ED%95%A9%EB%8B%88%EB%8B%A4;%ED%95%98%EB%82%98%EA%B8%88%EC%9C%B5%ED%8B%B0%EC%95%84%EC%9D%B4+%C2%B7+AI%EC%86%94%EB%A3%A8%EC%85%98%EC%85%80" alt="typing" />
+</a>
 
-<p align="center">My SW Blog is <a href="https://hoonyblog.vercel.app">HERE</a></p>
-<p align="center">And My Front-End Portfolio is <a href="https://gnslalsl12.github.io">THIS</a> which is still being developed.</p>
+<br/><br/>
 
-<!-- <p align="center"><img src="https://dday-widget.minung.dev/widget?text=%F0%9F%AA%96%20military%20service%20(23.03.13~24.09.12)&date=2024-09-12&startDate=2023-03-13&theme=theme2" /></p> -->
+<a href="https://gnslalsl12.github.io"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f" alt="Portfolio" /></a>
+<a href="https://hoonyblog.vercel.app"><img src="https://img.shields.io/badge/Tech_Blog-3B82F6?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0a0a0f" alt="Blog" /></a>
+<a href="https://solved.ac/wjdgnsxhsl"><img src="https://img.shields.io/badge/solved.ac-00BFFF?style=for-the-badge&logo=solana&logoColor=white&labelColor=0a0a0f" alt="solved.ac" /></a>
+<a href="https://instagram.com/jeong_hoooon/"><img src="https://img.shields.io/badge/Instagram-D946EF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0f" alt="Instagram" /></a>
+<a href="mailto:wjdgnsxhsl@naver.com"><img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" alt="Email" /></a>
 
-### Here are my geek life friends:
+</div>
 
-![Javascript](https://img.shields.io/badge/Javascript-3178C6?style=flat-square&logo=Javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-047FB4?style=flat-square&logo=TypeScript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=React&logoColor=61DAFB)
-![ReactNative](https://img.shields.io/badge/ReactNative-373635?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=Next.js&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
-![TailWind](https://img.shields.io/badge/TailWindcss-0d99ff?style=flat-square&logo=TailWindcss&logoColor=white)
-![styledcomponents](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=flat-square&logo=styledcomponents&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=black)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
-![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?style=flat-square&logo=eclipse&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-E87D0D.svg?style=flat-square&logo=blender&logoColor=232F3E)
-![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=Figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052cc.svg?style=flat-square&logo=Jira&logoColor=white)
-![Mattermost](https://img.shields.io/badge/Mattermost-0058cc.svg?style=flat-square&logo=Mattermost&logoColor=white)
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<!-- ### And there are other friends, too:
+<!-- ========================= ABOUT ========================= -->
+<img src="./assets/h-about.svg" alt="About Me" />
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Caddy 2](https://img.shields.io/badge/Caddy_2-00AEFF?style=flat-square&logo=Caddy&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000?style=flat-square&logo=Apple&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=Vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![iPhone](https://img.shields.io/badge/iPhone-000?style=flat-square&logo=Apple&logoColor=white)
-![Authy](https://img.shields.io/badge/Authy-EC1C24?style=flat-square&logo=Authy&logoColor=white)
-![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=flat-square&logo=Bitwarden&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0d99ff?style=flat-square&logo=figma&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=Brave&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Riot Games](https://img.shields.io/badge/Riot_Games-D32936.svg?style=flat-square&logo=riotgames&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)
-![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat-square&logo=akamai&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=flat-square&logo=vultr)
-![PlanetScale](https://img.shields.io/badge/PlanetScale-3A416F?style=flat-square&logo=planetscale&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) -->
-<!--
-### My activities:
+```typescript
+const hoon: Developer = {
+  name: "정훈 (Jeong Hoon)",
+  role: "Frontend Developer",
+  company: "하나금융티아이 · AI솔루션셀",      // 2024.05 ~ 현재
+  education: "SSAFY 8기 · Frontend Leader",
+  location: "🇰🇷 Seoul, South Korea",
 
-<table>
-  <tr><td colspan="2"><a href="/README.md#-plugins">← Back to plugins index</a></td></tr>
-  <tr><th colspan="2"><h3>📅 Isometric commit calendar</h3></th></tr>
-  <tr><td colspan="2" align="center"><p>This plugin displays an isometric view of a user commit calendar along with a few additional statistics like current streak and average number of commit per day.</p>
-</td></tr>
-  <tr><th>⚠️ Disclaimer</th><td><p>This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://github.com">GitHub</a>.
-All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
-</td></tr>
-  <tr>
-    <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
-    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a> <a href="/source/templates/terminal/README.md"><code>📙 Terminal template</code></a></td>
-  </tr>
-  <tr>
-    <td><code>👤 Users</code></td>
-  </tr>
-  <tr>
-    <td><code>🔑 (scopeless)</code> <code>read:org (optional)</code> <code>read:user (optional)</code> <code>read:packages (optional)</code> <code>repo (optional)</code></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-      <details><summary>Half year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-</table> -->
+  philosophy: [
+    "사용자 중심의 직관적인 UI/UX",        // Intuitive
+    "효율적인 프로그래밍과 최적의 상호작용",   // Efficiency
+    "동적 애니메이션으로 생동감 있는 경험",    // Dynamic
+    "모든 환경을 위한 반응형 구현",          // Responsive
+  ],
 
-### My activities:
+  currentlyBuilding: "famring.co.kr",        // 1인 풀스택 · 운영 중
+  interests: ["Interactive Web", "Three.js", "DX", "Performance"],
+};
+```
 
-<table align="center"><tr><th><img src="./github-metrics.svg" /></th></tr></table>
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ========================= TECH STACK ========================= -->
+<img src="./assets/h-stack.svg" alt="Tech Stack" />
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0f?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-0a0a0f?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+
+**Backend & Database**
+
+![Java](https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0a0a0f?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ========================= PROJECTS ========================= -->
+<img src="./assets/h-projects.svg" alt="Projects" />
+
+<img src="./assets/projects.svg" width="100%" alt="Featured Projects" />
+
+<div align="center">
+
+<a href="https://famring.co.kr"><img src="https://img.shields.io/badge/Famring-Live%20%E2%86%97-34D399?style=flat-square&labelColor=0a0a0f" alt="Famring Live" /></a>
+<a href="https://github.com/gnslalsl12/famring"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Famring repo" /></a>
+&nbsp;·&nbsp;
+<a href="https://github.com/SSAFY507/Worldy"><img src="https://img.shields.io/badge/WORLDY-181717?style=flat-square&logo=github&logoColor=white" alt="Worldy repo" /></a>
+&nbsp;·&nbsp;
+<a href="https://github.com/IEUM-Team/IEUM"><img src="https://img.shields.io/badge/Eeum-181717?style=flat-square&logo=github&logoColor=white" alt="Eeum repo" /></a>
+&nbsp;·&nbsp;
+<a href="https://github.com/gnslalsl12/Rendez-Boo"><img src="https://img.shields.io/badge/Rendez--Boo-181717?style=flat-square&logo=github&logoColor=white" alt="Rendez-Boo repo" /></a>
+
+<sub>🔗 더 많은 프로젝트와 상세 회고는 <a href="https://gnslalsl12.github.io">포트폴리오</a>에서 확인하실 수 있습니다.</sub>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ========================= GITHUB STATS ========================= -->
+<img src="./assets/h-stats.svg" alt="GitHub Stats" />
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gnslalsl12&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=8B5CF6&icon_color=3B82F6&text_color=9A9AB0&ring_color=D946EF" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnslalsl12&layout=compact&hide_border=true&langs_count=8&bg_color=0a0a0f&title_color=8B5CF6&text_color=9A9AB0" alt="top langs" />
+
+<br/>
+
+<img height="180" src="https://streak-stats.demolab.com?user=gnslalsl12&hide_border=true&background=0a0a0f&stroke=24243a&ring=8B5CF6&fire=D946EF&currStreakLabel=8B5CF6&sideLabels=9A9AB0&dates=4B4B5A&currStreakNum=ECECF1&sideNums=ECECF1&dayLabels=9A9AB0&excludeDaysLabel=4B4B5A" alt="streak" />
+
+<br/><br/>
+
+<!-- 3D isometric commit calendar — auto-generated daily by GitHub Actions -->
+<img src="./github-metrics.svg" width="100%" alt="3D activity metrics" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ========================= CONNECT ========================= -->
+<img src="./assets/h-connect.svg" alt="Connect" />
+
+<div align="center">
+
+사용자 중심의 인터랙티브한 웹 경험에 대해 이야기 나누고 싶다면 언제든 연락 주세요!
+
+<br/>
+
+<a href="https://gnslalsl12.github.io"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f" alt="Portfolio" /></a>
+<a href="https://hoonyblog.vercel.app"><img src="https://img.shields.io/badge/Tech_Blog-3B82F6?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0a0a0f" alt="Blog" /></a>
+<a href="mailto:wjdgnsxhsl@naver.com"><img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" alt="Email" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=gnslalsl12&style=flat-square&color=8B5CF6&label=Profile+Views" alt="views" />
+
+</div>
