@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="66" viewBox="0 0 132 66" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.82"/><stop offset="100%" stop-color="#f1ecff" stop-opacity="0.66"/></linearGradient>
+    <filter id="s" x="-20%" y="-25%" width="140%" height="160%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#ea4335" flood-opacity="0.22"/></filter>
+  </defs>
+  <g transform="translate(7,7)" font-family="'Segoe UI','Montserrat',system-ui,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+    <g filter="url(#s)"><rect x="0" y="0" width="118" height="52" rx="26" fill="url(#g)" stroke="#ffffff" stroke-opacity="0.9" stroke-width="1.4"/></g>
+    <rect x="1" y="1" width="116" height="50" rx="25" fill="none" stroke="#ea4335" stroke-opacity="0.18"/>
+    <rect x="16" y="9" width="34" height="34" rx="11" fill="#ea4335" fill-opacity="0.14" stroke="#ea4335" stroke-opacity="0.30"/>
+    <g transform="translate(22,15) scale(0.917)" stroke="#ea4335" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5.5" width="18" height="13" rx="2.6"/><path d="M3.8 7.2 L12 13 L20.2 7.2"/></g>
+    <g transform="translate(22,15) scale(0.917)"></g>
+    <text x="62" y="32.5" font-size="15" font-weight="700" fill="#2a2540">Gmail</text>
+  </g>
+</svg>
