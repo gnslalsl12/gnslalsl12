@@ -15,7 +15,8 @@
 <a href="https://hoonyblog.vercel.app"><img src="https://img.shields.io/badge/Tech_Blog-3B82F6?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0a0a0f" alt="Blog" /></a>
 <a href="https://solved.ac/wjdgnsxhsl"><img src="https://img.shields.io/badge/solved.ac-00BFFF?style=for-the-badge&logo=solana&logoColor=white&labelColor=0a0a0f" alt="solved.ac" /></a>
 <a href="https://instagram.com/jeong_hoooon/"><img src="https://img.shields.io/badge/Instagram-D946EF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0f" alt="Instagram" /></a>
-<a href="mailto:wjdgnsxhsl@naver.com"><img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" alt="Email" /></a>
+<a href="mailto:wjdgnsxhsl@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&labelColor=0a0a0f" alt="Naver" /></a>
+<a href="mailto:wjdgnsxhsl12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EF4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" alt="Gmail" /></a>
 
 </div>
 
@@ -143,7 +144,8 @@ const hoon: Developer = {
 
 <a href="https://gnslalsl12.github.io"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f" alt="Portfolio" /></a>
 <a href="https://hoonyblog.vercel.app"><img src="https://img.shields.io/badge/Tech_Blog-3B82F6?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0a0a0f" alt="Blog" /></a>
-<a href="mailto:wjdgnsxhsl@naver.com"><img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" alt="Email" /></a>
+<a href="mailto:wjdgnsxhsl@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&labelColor=0a0a0f" alt="Naver" /></a>
+<a href="mailto:wjdgnsxhsl12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EF4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" alt="Gmail" /></a>
 
 <br/><br/>
 
