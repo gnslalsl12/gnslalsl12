@@ -25,25 +25,9 @@
 <!-- ========================= ABOUT ========================= -->
 <img src="./assets/h-about.svg" alt="About Me" />
 
-```typescript
-const hoon: Developer = {
-  name: "정훈 (Jeong Hoon)",
-  role: "Frontend Developer",
-  company: "하나금융티아이 · AI솔루션셀",      // 2024.05 ~ 현재
-  education: "SSAFY 8기 · Frontend Leader",
-  location: "🇰🇷 Seoul, South Korea",
+<img src="./assets/about.svg" width="100%" alt="About — Intuitive · Efficiency · Dynamic · Responsive" />
 
-  philosophy: [
-    "사용자 중심의 직관적인 UI/UX",        // Intuitive
-    "효율적인 프로그래밍과 최적의 상호작용",   // Efficiency
-    "동적 애니메이션으로 생동감 있는 경험",    // Dynamic
-    "모든 환경을 위한 반응형 구현",          // Responsive
-  ],
-
-  currentlyBuilding: "famring.co.kr",        // 1인 풀스택 · 운영 중
-  interests: ["Interactive Web", "Three.js", "DX", "Performance"],
-};
-```
+<div align="center"><sub>🏢 <b>하나금융티아이 · AI솔루션셀</b> (2024.05~) &nbsp;·&nbsp; 🎓 SSAFY 8기 &nbsp;·&nbsp; 🛠️ 현재 <a href="https://famring.co.kr">famring.co.kr</a> 1인 풀스택 운영 중</sub></div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -117,17 +101,12 @@ const hoon: Developer = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gnslalsl12&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=8B5CF6&icon_color=3B82F6&text_color=9A9AB0&ring_color=D946EF" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnslalsl12&layout=compact&hide_border=true&langs_count=8&bg_color=0a0a0f&title_color=8B5CF6&text_color=9A9AB0" alt="top langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gnslalsl12&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7C3AED&icon_color=2563EB&text_color=544F6A&ring_color=C026D3" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnslalsl12&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=7C3AED&text_color=544F6A" alt="top langs" />
 
 <br/>
 
-<img height="180" src="https://streak-stats.demolab.com?user=gnslalsl12&hide_border=true&background=0a0a0f&stroke=24243a&ring=8B5CF6&fire=D946EF&currStreakLabel=8B5CF6&sideLabels=9A9AB0&dates=4B4B5A&currStreakNum=ECECF1&sideNums=ECECF1&dayLabels=9A9AB0&excludeDaysLabel=4B4B5A" alt="streak" />
-
-<br/><br/>
-
-<!-- 3D isometric commit calendar — auto-generated daily by GitHub Actions -->
-<img src="./github-metrics.svg" width="100%" alt="3D activity metrics" />
+<img height="170" src="https://streak-stats.demolab.com?user=gnslalsl12&hide_border=true&background=00000000&stroke=E5E1F2&ring=7C3AED&fire=C026D3&currStreakLabel=7C3AED&sideLabels=544F6A&dates=8A86A0&currStreakNum=241F3A&sideNums=241F3A&dayLabels=544F6A&excludeDaysLabel=8A86A0" alt="streak" />
 
 </div>
 

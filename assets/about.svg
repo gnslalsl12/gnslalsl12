@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="216" viewBox="0 0 1200 216" fill="none" role="img" aria-label="About — values">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0.5" y2="1"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.80"/><stop offset="100%" stop-color="#f1ecff" stop-opacity="0.64"/></linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity="0.9"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <linearGradient id="ic1" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#a78bfa"/><stop offset="100%" stop-color="#7c3aed"/></linearGradient>
+    <linearGradient id="ic2" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#60a5fa"/><stop offset="100%" stop-color="#2563eb"/></linearGradient>
+    <linearGradient id="ic3" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#f0abfc"/><stop offset="100%" stop-color="#c026d3"/></linearGradient>
+    <linearGradient id="ic4" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#5eead4"/><stop offset="100%" stop-color="#0d9488"/></linearGradient>
+    <filter id="cs" x="-15%" y="-15%" width="130%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#5b3fae" flood-opacity="0.16"/></filter>
+  </defs>
+
+  <g font-family="'Segoe UI','Montserrat',system-ui,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <!-- card 1 Intuitive -->
+  <g filter="url(#cs)"><rect x="24" y="18" width="273" height="172" rx="22" fill="url(#card)" stroke="#fff" stroke-opacity="0.9" stroke-width="1.5"/></g>
+  <rect x="52" y="19" width="217" height="1.5" fill="url(#sheen)"/>
+  <g transform="translate(24,18)">
+    <rect x="28" y="26" width="46" height="46" rx="14" fill="url(#ic1)"/>
+    <path d="M51 38 a11 11 0 0 0 -6 20 v3 h12 v-3 a11 11 0 0 0 -6 -20 z M47 65 h8 M48 70 h6" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="28" y="104" font-size="20" font-weight="800" fill="#241f3a">Intuitive</text>
+    <text x="28" y="132" font-size="13.5" font-weight="500" fill="#5b566f">직관적인 UI/UX로 빠르고</text>
+    <text x="28" y="152" font-size="13.5" font-weight="500" fill="#5b566f">쉬운 사용 환경을 제공합니다.</text>
+  </g>
+  <!-- card 2 Efficiency -->
+  <g filter="url(#cs)"><rect x="317" y="18" width="273" height="172" rx="22" fill="url(#card)" stroke="#fff" stroke-opacity="0.9" stroke-width="1.5"/></g>
+  <rect x="345" y="19" width="217" height="1.5" fill="url(#sheen)"/>
+  <g transform="translate(317,18)">
+    <rect x="28" y="26" width="46" height="46" rx="14" fill="url(#ic2)"/>
+    <path d="M53 36 L42 52 H50 L48 62 L60 45 H51 Z" fill="#fff"/>
+    <text x="28" y="104" font-size="20" font-weight="800" fill="#241f3a">Efficiency</text>
+    <text x="28" y="132" font-size="13.5" font-weight="500" fill="#5b566f">효율적인 프로그래밍으로</text>
+    <text x="28" y="152" font-size="13.5" font-weight="500" fill="#5b566f">최적의 상호작용을 추구합니다.</text>
+  </g>
+  <!-- card 3 Dynamic -->
+  <g filter="url(#cs)"><rect x="610" y="18" width="273" height="172" rx="22" fill="url(#card)" stroke="#fff" stroke-opacity="0.9" stroke-width="1.5"/></g>
+  <rect x="638" y="19" width="217" height="1.5" fill="url(#sheen)"/>
+  <g transform="translate(610,18)">
+    <rect x="28" y="26" width="46" height="46" rx="14" fill="url(#ic3)"/>
+    <path d="M52 36 C53.4 45 55 46.6 64 48 C55 49.4 53.4 51 52 60 C50.6 51 49 49.4 40 48 C49 46.6 50.6 45 52 36 Z" fill="#fff"/>
+    <path d="M62 56 C62.5 59 63 59.5 66 60 C63 60.5 62.5 61 62 64 C61.5 61 61 60.5 58 60 C61 59.5 61.5 59 62 56 Z" fill="#fff" fill-opacity="0.85"/>
+    <text x="28" y="104" font-size="20" font-weight="800" fill="#241f3a">Dynamic</text>
+    <text x="28" y="132" font-size="13.5" font-weight="500" fill="#5b566f">동적 애니메이션으로</text>
+    <text x="28" y="152" font-size="13.5" font-weight="500" fill="#5b566f">생동감 있는 경험을 더합니다.</text>
+  </g>
+  <!-- card 4 Responsive -->
+  <g filter="url(#cs)"><rect x="903" y="18" width="273" height="172" rx="22" fill="url(#card)" stroke="#fff" stroke-opacity="0.9" stroke-width="1.5"/></g>
+  <rect x="931" y="19" width="217" height="1.5" fill="url(#sheen)"/>
+  <g transform="translate(903,18)">
+    <rect x="28" y="26" width="46" height="46" rx="14" fill="url(#ic4)"/>
+    <rect x="40" y="36" width="16" height="26" rx="2.5" fill="none" stroke="#fff" stroke-width="2.2"/>
+    <rect x="56" y="44" width="9" height="18" rx="2" fill="none" stroke="#fff" stroke-width="2.2"/>
+    <line x1="44" y1="40" x2="52" y2="40" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/>
+    <text x="28" y="104" font-size="20" font-weight="800" fill="#241f3a">Responsive</text>
+    <text x="28" y="132" font-size="13.5" font-weight="500" fill="#5b566f">모든 환경을 위한</text>
+    <text x="28" y="152" font-size="13.5" font-weight="500" fill="#5b566f">반응형 페이지를 구현합니다.</text>
+  </g>
+  </g>
+</svg>
