@@ -25,9 +25,9 @@
 <!-- ========================= ABOUT ========================= -->
 <img src="./assets/h-about.svg" alt="About Me" />
 
-<img src="./assets/about.svg" width="100%" alt="About — Intuitive · Efficiency · Dynamic · Responsive" />
+<img src="./assets/about-profile.svg" width="100%" alt="Profile — SW 개발자 정훈" />
 
-<div align="center"><sub>🏢 <b>하나금융티아이 · AI솔루션셀</b> (2024.05~) &nbsp;·&nbsp; 🎓 SSAFY 8기 &nbsp;·&nbsp; 🛠️ 현재 <a href="https://famring.co.kr">famring.co.kr</a> 1인 풀스택 운영 중</sub></div>
+<img src="./assets/about.svg" width="100%" alt="About — Intuitive · Efficiency · Dynamic · Responsive" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
