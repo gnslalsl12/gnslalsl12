@@ -99,16 +99,7 @@
 <!-- ========================= GITHUB STATS ========================= -->
 <img src="./assets/h-stats.svg" alt="GitHub Stats" />
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gnslalsl12&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7C3AED&icon_color=2563EB&text_color=544F6A&ring_color=C026D3" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnslalsl12&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=7C3AED&text_color=544F6A" alt="top langs" />
-
-<br/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=gnslalsl12&hide_border=true&background=00000000&stroke=E5E1F2&ring=7C3AED&fire=C026D3&currStreakLabel=7C3AED&sideLabels=544F6A&dates=8A86A0&currStreakNum=241F3A&sideNums=241F3A&dayLabels=544F6A&excludeDaysLabel=8A86A0" alt="streak" />
-
-</div>
+<img src="./assets/github.svg" width="100%" alt="GitHub overview — repos, years, languages" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
