@@ -48,7 +48,7 @@
       <text x="22" y="0" fill="#7c3aed" font-size="15" font-weight="700" letter-spacing="5">SW DEVELOPER · FRONTEND</text>
     </g>
     <text x="90" y="168" font-size="62" font-weight="800" letter-spacing="-1.5">
-      <tspan fill="#241f3a">Hi, I&apos;m </tspan><tspan fill="url(#name)">Jeong Hoon</tspan>
+      <tspan fill="#241f3a">Hi, I&apos;m </tspan><tspan fill="#7c3aed">Jeong Hoon</tspan>
     </text>
     <text x="92" y="210" fill="#5b566f" font-size="19" font-weight="500">interactive web, made human — 생동감 있는 웹 경험을 만듭니다.</text>
 

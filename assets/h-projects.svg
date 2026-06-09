@@ -1,10 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="84" viewBox="0 0 900 84" fill="none">
-  <defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="134" y1="44" x2="272" y2="66">
-    <stop offset="0%" stop-color="#7c3aed"/><stop offset="55%" stop-color="#2563eb"/><stop offset="100%" stop-color="#c026d3"/>
-  </linearGradient></defs>
   <g font-family="'Segoe UI','Montserrat',system-ui,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
     <circle cx="6" cy="20" r="4" fill="#7c3aed"/>
     <text x="20" y="25" fill="#7c3aed" font-size="14" font-weight="800" letter-spacing="5">PROJECTS</text>
-    <text x="0" y="66" font-size="34" font-weight="800" letter-spacing="-0.8"><tspan fill="#241f3a">직접 만든 </tspan><tspan fill="url(#g)">프로젝트</tspan></text>
+    <text x="0" y="66" font-size="34" font-weight="800" letter-spacing="-0.8"><tspan fill="#241f3a">직접 만든 </tspan><tspan fill="#7c3aed">프로젝트</tspan></text>
   </g>
 </svg>
