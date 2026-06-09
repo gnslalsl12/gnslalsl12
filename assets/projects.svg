@@ -29,7 +29,7 @@
   <g transform="translate(24,24)">
     <g transform="translate(454,28)"><rect width="84" height="30" rx="15" fill="#059669" fill-opacity="0.12" stroke="#059669" stroke-opacity="0.45"/><circle cx="22" cy="15" r="4" fill="#059669"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/></circle><text x="34" y="20" fill="#047857" font-size="12" font-weight="800" letter-spacing="1">LIVE</text></g>
     <text x="32" y="56" font-size="13.5" font-weight="700" letter-spacing="2" fill="#8a86a0">01 · 개인 풀스택 · 운영 중</text>
-    <text x="32" y="98" font-size="33" font-weight="800" fill="url(#t1)" letter-spacing="-0.5">Famring</text>
+    <text x="32" y="98" font-size="33" font-weight="800" fill="#7c3aed" letter-spacing="-0.5">Famring</text>
     <text x="32" y="130" font-size="15" font-weight="500" fill="#544f6a">가족 단위로 계정·일정·정보를 안전하게</text>
     <text x="32" y="152" font-size="15" font-weight="500" fill="#544f6a">공유하는 모바일 PWA 서비스</text>
     <g transform="translate(32,174)" font-size="12.5" font-weight="600" fill="#463f5e">
@@ -47,7 +47,7 @@
   <g transform="translate(608,24)">
     <g transform="translate(440,28)"><rect width="100" height="30" rx="15" fill="#0ea5e9" fill-opacity="0.12" stroke="#0ea5e9" stroke-opacity="0.45"/><text x="50" y="20" fill="#0369a1" font-size="12" font-weight="800" letter-spacing="1" text-anchor="middle">3D · AI</text></g>
     <text x="32" y="56" font-size="13.5" font-weight="700" letter-spacing="2" fill="#8a86a0">02 · 팀 프로젝트 · SSAFY</text>
-    <text x="32" y="98" font-size="33" font-weight="800" fill="url(#t2)" letter-spacing="-0.5">WORLDY</text>
+    <text x="32" y="98" font-size="33" font-weight="800" fill="#4f46e5" letter-spacing="-0.5">WORLDY</text>
     <text x="32" y="130" font-size="15" font-weight="500" fill="#544f6a">AI 기술을 활용한 3D 메타버스</text>
     <text x="32" y="152" font-size="15" font-weight="500" fill="#544f6a">세계 지식 학습 게임</text>
     <g transform="translate(32,174)" font-size="12.5" font-weight="600" fill="#463f5e">
@@ -65,7 +65,7 @@
   <g transform="translate(24,270)">
     <g transform="translate(424,28)"><rect width="116" height="30" rx="15" fill="#059669" fill-opacity="0.12" stroke="#059669" stroke-opacity="0.45"/><text x="58" y="20" fill="#047857" font-size="12" font-weight="800" letter-spacing="1" text-anchor="middle">BIG DATA</text></g>
     <text x="32" y="56" font-size="13.5" font-weight="700" letter-spacing="2" fill="#8a86a0">03 · 팀 프로젝트 · SSAFY</text>
-    <text x="32" y="98" font-size="33" font-weight="800" fill="url(#t3)" letter-spacing="-0.5">이음 · Eeum</text>
+    <text x="32" y="98" font-size="33" font-weight="800" fill="#059669" letter-spacing="-0.5">이음 · Eeum</text>
     <text x="32" y="130" font-size="15" font-weight="500" fill="#544f6a">빅데이터 분산 기술을 활용한</text>
     <text x="32" y="152" font-size="15" font-weight="500" fill="#544f6a">'자립 준비 청년' 사회적 지원 서비스</text>
     <g transform="translate(32,174)" font-size="12.5" font-weight="600" fill="#463f5e">
@@ -82,7 +82,7 @@
   <g transform="translate(608,270)">
     <g transform="translate(420,28)"><rect width="120" height="30" rx="15" fill="#db2777" fill-opacity="0.10" stroke="#db2777" stroke-opacity="0.45"/><text x="60" y="20" fill="#be185d" font-size="12" font-weight="800" letter-spacing="1" text-anchor="middle">REAL-TIME</text></g>
     <text x="32" y="56" font-size="13.5" font-weight="700" letter-spacing="2" fill="#8a86a0">04 · 팀 프로젝트 · SSAFY</text>
-    <text x="32" y="98" font-size="33" font-weight="800" fill="url(#t4)" letter-spacing="-0.5">Rendez-Boo</text>
+    <text x="32" y="98" font-size="33" font-weight="800" fill="#db2777" letter-spacing="-0.5">Rendez-Boo</text>
     <text x="32" y="130" font-size="15" font-weight="500" fill="#544f6a">WebRTC 기술을 활용한</text>
     <text x="32" y="152" font-size="15" font-weight="500" fill="#544f6a">블라인드 미팅 플랫폼</text>
     <g transform="translate(32,174)" font-size="12.5" font-weight="600" fill="#463f5e">

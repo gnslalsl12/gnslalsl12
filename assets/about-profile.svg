@@ -23,7 +23,7 @@
 
   <g font-family="'Segoe UI','Montserrat',system-ui,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
     <text x="281" y="74" fill="#7c3aed" font-size="13" font-weight="800" letter-spacing="4">PROFILE</text>
-    <text x="281" y="120" font-size="34" font-weight="800" letter-spacing="-0.5"><tspan fill="#241f3a">SW 개발자 </tspan><tspan fill="url(#name)">정훈</tspan></text>
+    <text x="281" y="120" font-size="34" font-weight="800" letter-spacing="-0.5"><tspan fill="#241f3a">SW 개발자 </tspan><tspan fill="#7c3aed">정훈</tspan></text>
     <text x="281" y="150" fill="#5b566f" font-size="16" font-weight="600">Frontend Developer · Interactive Web</text>
     <text x="281" y="184" fill="#544f6a" font-size="14.5" font-weight="500">새로운 기술을 빠르게 흡수하고, 사용자 관점에서 문제를 정의하며,</text>
     <text x="281" y="208" fill="#544f6a" font-size="14.5" font-weight="500">팀과 함께 완성도 높은 결과물을 만드는 것을 즐깁니다.</text>

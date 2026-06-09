@@ -107,22 +107,22 @@ def render(s):
     <text x="60" y="64" fill="#7c3aed" font-size="13" font-weight="800" letter-spacing="4">OVERVIEW</text>
 
     <g transform="translate(56,82)"><rect width="232" height="84" rx="18" fill="#ffffff" fill-opacity="0.55" stroke="#7c3aed" stroke-opacity="0.14"/>
-      <text x="20" y="50" font-size="38" font-weight="800" fill="url(#num)">{s["repos"]}</text>
+      <text x="20" y="50" font-size="38" font-weight="800" fill="#7c3aed">{s["repos"]}</text>
       <text x="98" y="38" font-size="14" font-weight="700" fill="#3a3550">Public</text>
       <text x="98" y="58" font-size="14" font-weight="700" fill="#3a3550">Repositories</text>
     </g>
     <g transform="translate(300,82)"><rect width="232" height="84" rx="18" fill="#ffffff" fill-opacity="0.55" stroke="#7c3aed" stroke-opacity="0.14"/>
-      <text x="20" y="50" font-size="38" font-weight="800" fill="url(#num)">{yr}<tspan font-size="20">yr</tspan></text>
+      <text x="20" y="50" font-size="38" font-weight="800" fill="#7c3aed">{yr}<tspan font-size="20">yr</tspan></text>
       <text x="100" y="38" font-size="14" font-weight="700" fill="#3a3550">on GitHub</text>
       <text x="100" y="58" font-size="13" font-weight="600" fill="#6b6680">since 2018</text>
     </g>
     <g transform="translate(56,178)"><rect width="232" height="84" rx="18" fill="#ffffff" fill-opacity="0.55" stroke="#7c3aed" stroke-opacity="0.14"/>
-      <text x="20" y="50" font-size="38" font-weight="800" fill="url(#num)">{FEATURED}</text>
+      <text x="20" y="50" font-size="38" font-weight="800" fill="#7c3aed">{FEATURED}</text>
       <text x="76" y="38" font-size="14" font-weight="700" fill="#3a3550">Featured</text>
       <text x="76" y="58" font-size="14" font-weight="700" fill="#3a3550">Projects</text>
     </g>
     <g transform="translate(300,178)"><rect width="232" height="84" rx="18" fill="#ffffff" fill-opacity="0.55" stroke="#7c3aed" stroke-opacity="0.14"/>
-      <text x="20" y="50" font-size="38" font-weight="800" fill="url(#num)">1</text>
+      <text x="20" y="50" font-size="38" font-weight="800" fill="#7c3aed">1</text>
       <circle cx="64" cy="33" r="4" fill="#059669"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/></circle>
       <text x="76" y="38" font-size="14" font-weight="700" fill="#3a3550">Live Service</text>
       <text x="76" y="58" font-size="13" font-weight="600" fill="#047857">{LIVE}</text>
