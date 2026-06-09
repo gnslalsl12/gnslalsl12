@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" fill="none" role="img" aria-label="Featured Projects">
   <defs>
-    <linearGradient id="t1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#c026d3"/></linearGradient>
-    <linearGradient id="t2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#4f46e5"/><stop offset="100%" stop-color="#0ea5e9"/></linearGradient>
-    <linearGradient id="t3" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#059669"/><stop offset="100%" stop-color="#2563eb"/></linearGradient>
-    <linearGradient id="t4" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#db2777"/><stop offset="100%" stop-color="#7c3aed"/></linearGradient>
+    <linearGradient id="t1" gradientUnits="userSpaceOnUse" x1="49" y1="102" x2="197" y2="116"><stop offset="0%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#c026d3"/></linearGradient>
+    <linearGradient id="t2" gradientUnits="userSpaceOnUse" x1="633" y1="102" x2="786" y2="116"><stop offset="0%" stop-color="#4f46e5"/><stop offset="100%" stop-color="#0ea5e9"/></linearGradient>
+    <linearGradient id="t3" gradientUnits="userSpaceOnUse" x1="47" y1="348" x2="252" y2="362"><stop offset="0%" stop-color="#059669"/><stop offset="100%" stop-color="#2563eb"/></linearGradient>
+    <linearGradient id="t4" gradientUnits="userSpaceOnUse" x1="630" y1="348" x2="844" y2="362"><stop offset="0%" stop-color="#db2777"/><stop offset="100%" stop-color="#7c3aed"/></linearGradient>
     <linearGradient id="card" x1="0" y1="0" x2="0.5" y2="1">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0.80"/><stop offset="100%" stop-color="#f1ecff" stop-opacity="0.64"/>
     </linearGradient>
